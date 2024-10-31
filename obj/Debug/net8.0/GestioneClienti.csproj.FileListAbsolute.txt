@@ -1,0 +1,14 @@
+C:\Users\chiar\source\repos\GestioneClienti\bin\Debug\net8.0\GestioneClienti.exe
+C:\Users\chiar\source\repos\GestioneClienti\bin\Debug\net8.0\GestioneClienti.deps.json
+C:\Users\chiar\source\repos\GestioneClienti\bin\Debug\net8.0\GestioneClienti.runtimeconfig.json
+C:\Users\chiar\source\repos\GestioneClienti\bin\Debug\net8.0\GestioneClienti.dll
+C:\Users\chiar\source\repos\GestioneClienti\bin\Debug\net8.0\GestioneClienti.pdb
+C:\Users\chiar\source\repos\GestioneClienti\obj\Debug\net8.0\GestioneClienti.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chiar\source\repos\GestioneClienti\obj\Debug\net8.0\GestioneClienti.AssemblyInfoInputs.cache
+C:\Users\chiar\source\repos\GestioneClienti\obj\Debug\net8.0\GestioneClienti.AssemblyInfo.cs
+C:\Users\chiar\source\repos\GestioneClienti\obj\Debug\net8.0\GestioneClienti.csproj.CoreCompileInputs.cache
+C:\Users\chiar\source\repos\GestioneClienti\obj\Debug\net8.0\GestioneClienti.dll
+C:\Users\chiar\source\repos\GestioneClienti\obj\Debug\net8.0\refint\GestioneClienti.dll
+C:\Users\chiar\source\repos\GestioneClienti\obj\Debug\net8.0\GestioneClienti.pdb
+C:\Users\chiar\source\repos\GestioneClienti\obj\Debug\net8.0\GestioneClienti.genruntimeconfig.cache
+C:\Users\chiar\source\repos\GestioneClienti\obj\Debug\net8.0\ref\GestioneClienti.dll
